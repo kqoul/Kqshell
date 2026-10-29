@@ -1,0 +1,51 @@
+V0.1
+
+-First version ever, made some simple help - calc functions, no subprocess support
+
+V0.2
+
+-Added ls, cd, mkdir, pwd. Added support for subprocess
+
+v0.3
+
+-Added a startup .py config
+
+V0.4
+
+-Added More about functions
+
+V0.5
+
+-Biggest overhaul yet, overhauled the whole command system and made it more stable
+
+V1.0
+
+-Overall polishing to make a stable release, added more foolproof mechanisms
+-Overhauled the help menu to look more readable and more usable
+-Made native builtin custom shell commands to help debugging and just personal usable
+-first actual release of kqshell
+-Added float support for calc
+
+V1.1
+
+-Added browser function
+-made whoami more detailed with the product name
+-made pointer look better and more informative
+
+V1.2
+
+-Added up arrow history
+-fixed fastfetch for kitty
+
+V1.3
+
+-Added a dynamic window title which updateds per process
+-fixed cd not taking "~" as home directory
+-Made the about section more informative
+
+V1.4
+
+-Added more kqshell builtin commands for extra kernel information
+
+V1.4.1
+Reviewed the code and temporarliy disabled the nixos build command
