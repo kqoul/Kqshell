@@ -1,5 +1,5 @@
-!! THIS IS A PERSONAL PROJECT FOR FUN!!
-!!THIS PROJECT WAS BEING UPDATED WITH OUT GIT BEING SETUP!!
+# THIS IS A PERSONAL PROJECT FOR FUN!!
+#THIS PROJECT WAS BEING UPDATED WITH OUT GIT BEING SETUP!!
 
 -KQSHELL-
 -This is a simple personal project of mine that is basically a custom made shell made from scratch on python my hand as a process to learn serious coding
@@ -8,7 +8,7 @@
 -HOW IT WORKS-
 It is a simple python project which acts as a shell (e.g cmd, poweshell, bash, zsh, etc...) with some custom syntax which all can be viewed with the "help" command, this shell is powered by python and its builtin imports, therefore it is an extremly basic and very customizable shell to use.
 
--Features-
+#-Features-
 - Here are the custom commands that can be used in kqshell and their explaination: 
 
          'kqshell.xdg.session' -> prints the current xdg session type
@@ -26,7 +26,7 @@ It is a simple python project which acts as a shell (e.g cmd, poweshell, bash, z
 
 !!Please note that (again) this is an unstable/unfinished personal project so please do not daily drive it unless you want to try it out or help and fork it to make it better (really hope so)!!
 
--HOW TO INSTALL-
+#-HOW TO INSTALL-
 - Copy this repo via git on cmdline "PLACEHOLDER"
 -Extract the "kqshell-VX.X"
 -Run "main.py" to open the shell
@@ -37,4 +37,4 @@ and add the following line: "shell /XYZ" [Replace the "XYZ" witht he desitinatio
 I hope you enjoy this project it was fun as hell to work on it
 
 Made by ihatekqoul with luv <3
-# Kqshell
+
