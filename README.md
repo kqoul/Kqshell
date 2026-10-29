@@ -37,3 +37,4 @@ and add the following line: "shell /XYZ" [Replace the "XYZ" witht he desitinatio
 I hope you enjoy this project it was fun as hell to work on it
 
 Made by ihatekqoul with luv <3
+# Kqshell
